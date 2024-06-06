@@ -58,8 +58,8 @@
   margin: 20px 0px 5px 70px;
 }
 
-.bottom-left-contact-text{
-  margin-left: 70px; 
+.bottom-left-contact-text {
+  margin-left: 70px;
   opacity: 50%;
 }
 
@@ -127,13 +127,14 @@
     height: 5rem;
   }
 
-  .top-left h2, h3{
-font-size: smaller;
+  .top-left h2,
+  h3 {
+    font-size: smaller;
   }
 
   .top-left-icons {
     gap: 20px;
-    font-size: 8px;
+    font-size: 5px;
   }
   .bottom-left {
     height: 78%;
@@ -148,18 +149,17 @@ font-size: smaller;
   .bottom-left h3 {
     margin: 10px 0px 3px 24px;
   }
-  .bottom-left-h4-media{
+  .bottom-left-h4-media {
     margin: 10px 0px 3px 24px;
   }
 
-  .bottom-left-contact-text{
-    margin-left: 24px; 
+  .bottom-left-contact-text {
+    margin-left: 24px;
     opacity: 50%;
     padding-right: 3px;
   }
-  
-  .skill-lists {
 
+  .skill-lists {
     margin: 10px 0 5px 24px;
   }
   .skill-lists li {
@@ -169,26 +169,46 @@ font-size: smaller;
   .bottom-left h2 {
     margin: 30px 0 5px 24px;
   }
-  .right{
+  .right {
     font-size: x-small;
   }
-  .right br{
+  .right br {
     display: none;
   }
   .line2 {
-    width: 78%;
+    width: 92%;
     height: 2px;
-    margin-bottom: 4px;
+    margin: 0 0 4px 10px;
   }
 
-  .top-section{
-    width: 70%;
+  .middle-text {
+    font-size: 10px;
+    margin-left: 10px;
+  }
+  .middle-points {
+    margin: 10px 0 20px 20px;
+    
+  }
+  
+  .protect-text{
+    margin-left: 10px;
   }
 
-  .middle-text{
-    font-size: small;
+  .right-blue-text {
+    font-size: 10px;
+    margin-left: 10px;
   }
-  .middle-secton-position{
-    width: 70%;
+  .year {
+    font-size: 8px;
   }
+
+  .right-text {
+    margin-left: 10px;
+  }
+
+  .position {
+    gap: 20px;
+    margin: 0 0 10px 10px;
+  }
+
 }
